@@ -1,4 +1,5 @@
-Samples for university courses "Operating systems" and "Realtime systems" (Saint-Petersburg ETU, Russia):
+# "Operating systems" course tasks
+My tasks from university courses "Operating systems" and "Realtime systems" (Saint-Petersburg ETU, Russia):
 - threads demonstration
 - semaphores and mutexes
 - pipes
